@@ -56,26 +56,26 @@ class Quiz {
         //   fill("red");
         // }
 
-        // if (correctAns === allContestants[plr].answer){
-        //   fill("Green")
-        // }
-        // else{
-        //   fill("red");
-        // }
+         if (correctAns === allContestants[plr].answer){
+           fill("Green")
+         }
+         else{
+           fill("red");
+         }
 
         // if (correctAns === allContestants[plr].answer){
         //   fill("red")
         // }
         // else{
-        //   fill("green");
+        //  fill("green");
         // }
 
         // if (correctAns = allContestants[plr].answer){
         //   fill("Green")
         // }
         // else{
-        //   fill("red");
-        // }
+         //  fill("red");
+         //}
 
         display_Answers+=30;
         textSize(20);
